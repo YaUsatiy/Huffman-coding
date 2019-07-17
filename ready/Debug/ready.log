@@ -1,0 +1,17 @@
+﻿Построение начато 17.12.2018 19:06:51.
+     1>Проект "C:\Users\Ваня\Desktop\прога\на всякий\ready\ready\ready.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ready.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         ready.vcxproj -> C:\Users\Ваня\Desktop\прога\на всякий\ready\Debug\ready.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ready.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ready.lastbuildstate".
+     1>Построение проекта "C:\Users\Ваня\Desktop\прога\на всякий\ready\ready\ready.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.07
